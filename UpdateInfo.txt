@@ -1,0 +1,31 @@
+{
+"Cfg":[
+{
+"chanelId":1,
+"Android":"1.6.10",
+"AndroidUrl":"https://d3ddcap56w473g.cloudfront.net/download/appstore/android/aapk_v1.6.10d.apk",
+"ApkName":"aapk_v1.6.10d.apk",
+"ApkSize":64695806,
+"ReviewVersion":"1.7.0",
+"IOSList":[
+    {"IOSSignId":"S338UXQN7C","IOS":"1.6.10","IOSUrl":"itms-services://?action=download-manifest&url=https://d3ddcap56w473g.cloudfront.net/download/appstore/ios/sign3/aapk.plist"},
+    {"IOSSignId":"N22947QN9N","IOS":"1.6.10","IOSUrl":"https://apps.apple.com/hk/app/aa-poker-tournament/id6479183625"},
+    {"IOSSignId":"","IOS":"1.6.10","IOSUrl":"https://apps.apple.com/hk/app/aa-poker-tournament/id6479183625"}
+]
+},
+{
+"chanelId":3,
+"Android":"1.6.10",
+"AndroidUrl":"https://app.aapkgames.com:8063/download/android/aapk.apk",
+"ApkName":"aapk.apk",
+"ApkSize":116575876,
+"IOSList":[
+    {"IOSSignId":"9Y5MZH2469","IOS":"1.6.10","IOSUrl":"itms-services://?action=download-manifest&url=https://app.aapkgames.com:8063/download/ios/sign1/aapk.plist"},
+    {"IOSSignId":"7LD5QKB26C","IOS":"1.6.10","IOSUrl":"itms-services://?action=download-manifest&url=https://app.aapkgames.com:8063/download/ios/sign2/aapk.plist"},
+    {"IOSSignId":"S338UXQN7C","IOS":"1.6.10","IOSUrl":"itms-services://?action=download-manifest&url=https://app.aapkgames.com:8063/download/ios/sign1/aapk.plist"},
+    {"IOSSignId":"QQ2HWFKW3U","IOS":"1.6.10","IOSUrl":"itms-services://?action=download-manifest&url=https://app.aapkgames.com:8063/download/ios/sign1/aapk.plist"}
+]
+}
+],
+"Msg":"版本更新@%Update Version@%版本更新@%对用户体验做了优化@%Optimize user experience@%對用戶體驗做了優化@%更新@%Update@%更新"
+}
